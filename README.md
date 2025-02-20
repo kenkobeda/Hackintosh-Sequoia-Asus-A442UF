@@ -7,7 +7,7 @@ Specs:
 - ALC256 Codec Audio
 - Qualcomm Atheros QCA9377
 
-## Works
+## Works ✅
 
 - Bluetooth
 - Audio
@@ -17,7 +17,7 @@ Specs:
 - Shutdown, Sleep & Restart
 - Camera
 
-## Not Working
+## Not Working ❌
 - Internal Wifi, use dongle instead
 - Brightness ( this works before on sonoma)
 
