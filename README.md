@@ -17,10 +17,10 @@ Specs:
 - Shutdown, Sleep & Restart
 - Camera
 - Brightness
+- Battery && Power Management
 
 ## Not Working ❌
 - Internal Wifi, use dongle instead
-- Icon Battery is missing
 
 
 ![sequoia 15.3.1](./sequoia.png)
