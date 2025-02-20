@@ -20,3 +20,6 @@ Specs:
 ## Not Working
 - Internal Wifi, use dongle instead
 - Brightness ( this works before on sonoma)
+
+
+![sequoia 15.3.1](./sequoia.png)
