@@ -16,10 +16,11 @@ Specs:
 - Ethernet
 - Shutdown, Sleep & Restart
 - Camera
+- Brightness
 
 ## Not Working ❌
 - Internal Wifi, use dongle instead
-- Brightness ( this works before on sonoma)
+- Icon Battery is missing
 
 
 ![sequoia 15.3.1](./sequoia.png)
